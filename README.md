@@ -1,1 +1,0 @@
-# Gravity-UI-MD-Editor
